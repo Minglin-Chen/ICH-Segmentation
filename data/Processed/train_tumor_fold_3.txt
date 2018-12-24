@@ -1,0 +1,2 @@
+images/CT131838_334713_6_brain.png labels/CT131838_334713_6_ICH.png
+images/CT131838_334713_7_brain.png labels/CT131838_334713_7_ICH.png
